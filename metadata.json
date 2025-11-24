@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Multilingual Chatbot",
+  "description": "A responsive, real-time chatbot application powered by the Gemini API. It supports natural language conversations in English, Tamil, Malayalam, Hindi, and Telugu, with automatic language detection and response generation.",
+  "requestFramePermissions": []
+}
